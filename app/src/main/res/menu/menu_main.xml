@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/bingos" app:showAsAction="always|withText"   android:title=""/>
+    <item
+        android:id="@+id/new_game" app:showAsAction="never|withText"   android:title="@string/new_game"/>
+    <item
+        android:id="@+id/select_college" app:showAsAction="never|withText"   android:title="@string/select_college"/>
+    <item
+        android:id="@+id/save_results" app:showAsAction="never|withText"   android:title="@string/save_results"/>
+    <item
+        android:id="@+id/view_results" app:showAsAction="never|withText"   android:title="@string/view_results"/>
+</menu>

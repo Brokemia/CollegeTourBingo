@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">College Tour Bingo</string>
+
+    <string name="bingo">Bingo!</string>
+    <string name="select_college">Select College</string>
+    <string name="new_game">New Game</string>
+    <string name="save_results">Save Results</string>
+    <string name="view_results">View Saved Results</string>
+    <string name="avg_bingo_count">Average Bingo Count: %1$.2f</string>
+    <string name="avg_first_bingo_time">Average Time to First Bingo: %1$.2f minutes</string>
+    <string name="marked_terms">Marked Terms</string>
+
+    <string name="dialog_clear_board">Are you sure you want to start a new game? All of your marked spaces will be cleared.</string>
+    <string name="dialog_select_college">Would you like to select a college?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+
+    <string name="num_bingo_terms">45</string>
+    <string name="bingo_term_0">Holistic Review</string>
+    <string name="bingo_term_1">Blue Light System</string>
+    <string name="bingo_term_2">So easy to get into research</string>
+    <string name="bingo_term_3">Interdisciplinary</string>
+    <string name="bingo_term_4">Over XX clubs</string>
+    <string name="bingo_term_5">What grade is everyone in?</string>
+    <string name="bingo_term_6">How many siblings are here?</string>
+    <string name="bingo_term_7">Something for everyone</string>
+    <string name="bingo_term_8">Great roommate survey</string>
+    <string name="bingo_term_9">How many college visits?</string>
+    <string name="bingo_term_10">You\'ve heard this before...</string>
+    <string name="bingo_term_11">Flexible</string>
+    <string name="bingo_term_12">We want to hear your voice</string>
+    <string name="bingo_term_13">Judge you in the context of your high school</string>
+    <string name="bingo_term_14">Makerspace</string>
+    <string name="bingo_term_15">Tell me if I\'m going to walk into anything</string>
+    <string name="bingo_term_16">Net price calculator on our website</string>
+    <string name="bingo_term_17">How far has everyone traveled</string>
+    <string name="bingo_term_18">Undergraduate Research Opportunities</string>
+    <string name="bingo_term_19">Study Abroad</string>
+    <string name="bingo_term_20">Collaborative</string>
+    <string name="bingo_term_21">Internships</string>
+    <string name="bingo_term_22">Questbridge Application</string>
+    <string name="bingo_term_23">Common Application</string>
+    <string name="bingo_term_24">Coalition Application</string>
+    <string name="bingo_term_25">Intramural sports</string>
+    <string name="bingo_term_26">Club sports</string>
+    <string name="bingo_term_27">Demonstrated Interest</string>
+    <string name="bingo_term_28">Don\'t judge on test scores alone</string>
+    <string name="bingo_term_29">FAFSA</string>
+    <string name="bingo_term_30">CSS Profile</string>
+    <string name="bingo_term_31">Need-based Financial Aid</string>
+    <string name="bingo_term_32">Alumni Network</string>
+    <string name="bingo_term_33">Need-blind Admissions</string>
+    <string name="bingo_term_34">Net price calculator</string>
+    <string name="bingo_term_35">Merit Scholarships</string>
+    <string name="bingo_term_36">Quidditch Club</string>
+    <string name="bingo_term_37">Need-aware Admissions</string>
+    <string name="bingo_term_38">Guaranteed housing</string>
+    <string name="bingo_term_39">Early Decision</string>
+    <string name="bingo_term_40">Nonbinding Early Action</string>
+    <string name="bingo_term_41">Restrictive Early Action</string>
+    <string name="bingo_term_42">Early Decision II</string>
+    <string name="bingo_term_43">Library floor get quieter as you go up</string>
+    <string name="bingo_term_44">Start your own club</string>
+</resources>
